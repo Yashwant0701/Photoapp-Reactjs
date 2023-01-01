@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Yashwant0701/Photoapp-Reactjs/static/css/main.a102879e.css",
+    "main.js": "/Yashwant0701/Photoapp-Reactjs/static/js/main.468e05a5.js",
+    "static/media/logo.png": "/Yashwant0701/Photoapp-Reactjs/static/media/logo.bbecc3e1c39e18746b4c.png",
+    "index.html": "/Yashwant0701/Photoapp-Reactjs/index.html",
+    "main.a102879e.css.map": "/Yashwant0701/Photoapp-Reactjs/static/css/main.a102879e.css.map",
+    "main.468e05a5.js.map": "/Yashwant0701/Photoapp-Reactjs/static/js/main.468e05a5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a102879e.css",
+    "static/js/main.468e05a5.js"
+  ]
+}
